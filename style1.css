@@ -1,0 +1,35 @@
+body{
+   /*  margin: 0 ;
+    padding: 0; */
+  background-color: aquamarine;
+  font-family: cursive;
+}
+h1{
+    border: 2px ;
+    margin: 50px;
+    padding: 10px;
+    text-align: center;
+}
+Form{
+   border: 5px ;
+   margin:10px;
+   padding: 20px;
+   font-size: larger;
+   text-align: center;
+
+}
+.name, .email, .pword{
+    margin: 10px;
+    padding: 10px;
+    width: 50%;
+}
+/* .submit{
+    margin: 10px;
+    padding: 10px;
+    background-color: darkgreen;
+    color: white;
+    font-size: larger;
+    font-family: cursive;
+    border-radius: 20px;
+    width: 20%;
+} */
